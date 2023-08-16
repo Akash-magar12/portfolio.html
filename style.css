@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Righteous', cursive;
+}
+body {
+    background-color: #07070B;
+}
+.line {
+    height: 6px;
+    width: 15%;
+    background-color: red;
+}
+.line1 {
+    height: 6px;
+    width: 22%;
+    background-color: white;
+}
+
+.line2 {
+    height: 6px;
+    width: 34%;
+    background-color: white;
+}
+.line3 {
+    height: 6px;
+    width: 30%;
+    background-color: white;
+}
+.btn-outline-danger:hover {
+    background-color: #fff;
+    color: black;
+
+}
+.h4:hover {
+    background-color: #fff;
+    color: black;
+
+}
+.bi-star-fill {
+    color: red;
+}
+.line4 {
+    height: 5px;
+    width: 43%;
+    background-color: white;
+}
+.linep {
+    height: 5px;
+    width: 29%;
+    background-color: white;
+}
+.lines {
+    height: 6px;
+    width: 15%;
+    background-color: white;
+}
+
+.bg {
+    height: 70vh;
+    background-position: top;
+    background-size: cover;
+    transition: 5s ease-in-out 0s;
+}
+.bg:hover {
+    background-position: bottom;
+}
+
+
+.bi-laptop  {
+    font-size: 5rem;
+
+}
+.bi-phone {
+    font-size: 5rem;
+
+}
+.bi-pc-display-horizontal {
+    font-size: 5rem;
+
+}
+.line5 {
+    height: 6px;
+    width: 75%;
+    background-color: white;
+}
+.form-control {
+    background-color: transparent;
+    border-color: white;
+}
+.line6 {
+    height: 6px;
+    width: 45%;
+    background-color: white;
+}
+.unstyled li a {
+    font-size: 1.5rem;
+    color: white;
+}
+
